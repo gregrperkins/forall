@@ -1,0 +1,18 @@
+{
+  "name" : "forall",
+  "version" : "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "./node_modules/.bin/grunt test",
+    "tdd": "./node_modules/.bin/grunt tdd"
+  },
+  "devDependencies": {
+    "grunt": "0.4.0rc4-1-gp",
+    "grunt-cli": "~0.1.6",
+    "grunt-contrib-watch": "~0.1.4",
+    "grunt-simple-mocha": "0.3.1-2-gp",
+    "mocha": "~1.7",
+    "sinon": "~1.5.2",
+    "should": "~1.2.1"
+  }
+}
